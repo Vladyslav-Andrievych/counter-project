@@ -1,0 +1,31 @@
+.counter {
+  margin: auto;
+}
+.counter__action {
+  width: 50px;
+  height: 50px;
+  border-radius: 8px;
+  border: 2px solid #585555;
+  background-color: transparent;
+  font-size: 32px;
+}
+.counter__value {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-size: 42px;
+  font-weight: 700;
+}
+
+.page {
+  display: flex;
+  height: 100vh;
+}
+
+/*# sourceMappingURL=styles.css.map */

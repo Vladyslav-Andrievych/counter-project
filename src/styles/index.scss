@@ -1,0 +1,15 @@
+@import 'counter.scss';
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 42px;
+    font-weight: 700;
+}
+
+.page {
+    display: flex;
+    height: 100vh;
+}
